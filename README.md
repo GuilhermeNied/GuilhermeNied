@@ -1,16 +1,17 @@
-### Hi there 👋
+<div>
+    <a href="https://github.com/GuilhermeNied"></a>
+    <img  height="200em"  src="https://github-readme-stats.vercel.app/api?username=GuilhermeNied&show_icons=true&theme=nightowl" alt="">
+    <img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNied&layout=compact&langcounts=16&theme=nightowl" alt="">
+</div>
 
-<!--
-**GuilhermeNied/GuilhermeNied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline-block"><br>
+    <img align = "center" alt = "Gui-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align = "center" alt = "Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align = "center" alt = "Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align = "center" alt = "Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div><br>
+<a href="https://www.linkedin.com/in/guilherme-n-ab6566180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
