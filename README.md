@@ -1,6 +1,6 @@
 <div>
     <a href="https://github.com/GuilhermeNied"></a>
-    <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=GuilhermeNied&show_icons=true&theme=material-palenight" alt="">
+    <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=GuilhermeNied&show_icons=true&theme=nightowl" alt="">
     <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNied&layout=compact&langcounts=16&theme=nightowl" alt="">
 </div>
 
