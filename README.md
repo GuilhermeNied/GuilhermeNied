@@ -26,3 +26,4 @@ Software Engineer focused and curious. I've had the opportunity to participate i
 <img align = "left" title="PostgresSQL" alt="PostgresSQL" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
 <img align = "left" title="Jest" alt="Jest" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">
 <img align = "left" title="SASS" alt="SASS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
+<img align = "left" title="TailwindCSS" alt="TailwindCSS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
